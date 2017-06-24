@@ -1,0 +1,62 @@
+body {
+  font-family: 'Oswald', sans-serif;
+  background-image: url('./images/concrete-texture.png');
+  background-repeat: repeat;
+}
+
+header {
+  color: #d3d9e2;
+  font-size: 200%;
+  height: 100px;
+  background-color: #545454;
+  padding: 1rem;
+
+}
+
+header h1 {
+  margin: 0;
+}
+
+main {
+
+}
+
+footer {
+  color: #d3d9e2;
+  padding: 1rem;
+  background-color: #545454;
+}
+
+
+div.wrapper {
+  width: 600px;
+  margin: auto;
+}
+
+img {
+  width: 100%;
+}
+
+ul {
+  list-style-image: url('./images/big-bone.png')
+}
+
+a:link {
+  color: #5c91ed;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #4770b7;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #2374ff;
+  text-transform: uppercase;
+  text-decoration: non;
+}
+
+a:active {
+  text-decoration: none;
+}
